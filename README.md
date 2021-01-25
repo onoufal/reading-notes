@@ -10,3 +10,5 @@ Growth mindset is a positive way of thinking that improve one's abilities and sk
 ![growth vs fixed mind sets](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
   - #### Following is a link for more about The Growth Mindset:
 [More about growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+add stuff
+add more stuff
