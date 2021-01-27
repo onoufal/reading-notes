@@ -6,19 +6,6 @@
 
 # Table of contents:
 
-* Osama
+| Read# | Link |
 
-> Osama
-
-Osama
-
-& Osama
-
-'Osama'
- 
-
- > What happens heare
-
- = Osama
-
- + Osama
+| 02a |    [02a](https://onoufal.github.io/reading-notes/102) |
