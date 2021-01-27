@@ -7,5 +7,7 @@
 # Table of contents:
 
 | Read# | Link |
-
-| 02a |    [02a](https://onoufal.github.io/reading-notes/102) |
+| ------ |------- |
+| 02a | [Growth Mindset](https://onoufal.github.io/reading-notes/read02) |
+| 03a-reading | [Buidling a Website](https://onoufal.github.io/reading-notes/03a-reading) |
+| read04 | [Java Script Notes](https://onoufal.github.io/reading-notes/read04)
