@@ -13,4 +13,4 @@
 | 03a-reading | [Buidling a Website](https://onoufal.github.io/reading-notes/102/03a-reading) |
 | read04 | [Java Script Notes](https://onoufal.github.io/reading-notes/102/read04)
 | reading05 | [Operators and Loops](https://onoufal.github.io/reading-notes/102/reading05)
-| read06 | [CSS](https://onoufal.github.io/reading-notes/resd06)
+| read06 | [CSS](https://onoufal.github.io/reading-notes/102/resd06)
