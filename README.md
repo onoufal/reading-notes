@@ -20,19 +20,19 @@
 
 | Read# | Link|
 | ----- | --- |
-| Read01 | [01](201/read01.md) |  
-| Read02 | [02](201/read02.md) |  
-| Read03 | [03](201/read03.md) |  
-| Read04 | [04](201/read04.md) |  
-| Read05 | [05](201/read05.md) |  
-| Read06 | [06](201/read06.md) |  
-| Read07 | [07](201/read07.md) |  
-| Read08 | [08](201/read08.md) |  
-| Read09 | [09](201/read09.md) |  
-| Read10 | [10](201/read10.md) |  
-| Read11 | [11](201/read11.md) |  
-| Read12 | [12](201/read12.md) |  
-| Read13 | [13](201/read13.md) |  
-| Read14 | [14](201/read14.md) |  
-| Read15 | [15](201/read15.md) |  
+| Read01 | [01](201/read1) |  
+| Read02 | [02](201/read2) |  
+| Read03 | [03](201/read3) |  
+| Read04 | [04](201/read4) |  
+| Read05 | [05](201/read5) |  
+| Read06 | [06](201/read6) |  
+| Read07 | [07](201/read7) |  
+| Read08 | [08](201/read8) |  
+| Read09 | [09](201/read9) |  
+| Read10 | [10](201/read10) |  
+| Read11 | [11](201/read11) |  
+| Read12 | [12](201/read12) |  
+| Read13 | [13](201/read13) |  
+| Read14 | [14](201/read14) |  
+| Read15 | [15](201/read15) |  
 
