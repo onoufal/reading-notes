@@ -22,7 +22,7 @@
 | ----- | --- |
 | Read 01 | [Introductory HTML and JavaScript](201/read1) |  
 | Read 02 | [Basics of HTML, CSS & JS](201/read2) |  
-| Read 03 | [03](201/read3) |  
+| Read 03 | [HTML Lists, CSS Boxes, JS Control Flow](201/read3) |  
 | Read 04 | [04](201/read4) |  
 | Read 05 | [05](201/read5) |  
 | Read 06 | [06](201/read6) |  
