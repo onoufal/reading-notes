@@ -25,7 +25,7 @@
 | Read 03 | [HTML Lists, CSS Boxes, JS Control Flow](201/read3) |  
 | Read 04 | [ HTML Links, CSS Layout, JS Functions](201/read4) |  
 | Read 05 | [HTML Images; CSS Color & Text](201/read5) |  
-| Read 06 | [06](201/read6) |  
+| Read 06 | [ Problem Domain, Objects, and the DOM](201/read6) |  
 | Read 07 | [07](201/read7) |  
 | Read 08 | [08](201/read8) |  
 | Read 09 | [09](201/read9) |  
