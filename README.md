@@ -31,7 +31,7 @@
 | Read 09 | [09](201/read9) |  
 | Read 10 | [10](201/read10) |  
 | Read 11 | [11](201/read11) |  
-| Read 12 | [12](201/read12) |  
+| Read 12 | [Chart.js, Canvas](201/read12) |  
 | Read 13 | [13](201/read13) |  
 | Read 14 | [14](201/read14) |  
 | Read 15 | [15](201/read15) |  
