@@ -33,6 +33,6 @@
 | Read 11 | [11](201/read11) |  
 | Read 12 | [Chart.js, Canvas](201/read12) |  
 | Read 13 | [Local Storage](201/read13) |  
-| Read 14 | [14](201/read14) |  
-| Read 15 | [15](201/read15) |  
+| Read 14a | [Transform, Transition and Animation](201/read14a) |  
+| Read 14b | [Perfect Team](201/read14b) |  
 
