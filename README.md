@@ -27,7 +27,7 @@
 | Read 05 | [HTML Images; CSS Color & Text](201/read5) |  
 | Read 06 | [ Problem Domain, Objects, and the DOM](201/read6) |  
 | Read 07 | [Object-Oriented Programming, HTML Tables](201/read7) |  
-| Read 08 | [08](201/read8) |  
+| Read 08 | [CSS Layout](201/read8) |  
 | Read 09 | [Forms and Events](201/read9) |  
 | Read 10 | [10](201/read10) |  
 | Read 11 | [11](201/read11) |  
