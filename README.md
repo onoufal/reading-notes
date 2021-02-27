@@ -30,7 +30,7 @@
 | Read 08 | [CSS Layout](201/read8) |  
 | Read 09 | [Forms and Events](201/read9) |  
 | Read 10 | [10](201/read10) |  
-| Read 11 | [11](201/read11) |  
+| Read 11 | [Assorted Topics](201/read11) |  
 | Read 12 | [Chart.js, Canvas](201/read12) |  
 | Read 13 | [Local Storage](201/read13) |  
 | Read 14a | [Transform, Transition and Animation](201/read14a) |  
